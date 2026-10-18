@@ -1,0 +1,30 @@
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Python
+*.egg-info/
+dist/
+build/
+
+# macOS
+.DS_Store
+
+# Tableau
+*.twb
+*.twbx
+*.tds
+*.tdsx
+*.tde
